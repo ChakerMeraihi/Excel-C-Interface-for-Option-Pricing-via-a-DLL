@@ -1,4 +1,3 @@
-here you can view the doxygen Documentation of the project 
+📖 [View the Doxygen documentation online]
 
-
-https://chakermeraihi.github.io/Excel-C-Interface-for-Option-Pricing-via-a-DLL/ 
+(https://chakermerahli.github.io/Excel-C-Interface-for-Option-Pricing-via-a-DLL/)
