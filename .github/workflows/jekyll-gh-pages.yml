@@ -23,9 +23,8 @@ jobs:
 
       - name: Copy static Doxygen site
         run: |
-          # if your generated files are inside a folder called Docs
           mkdir _site
-          cp -r Docs/* _site/
+          cp -r "GitHub Pages"/* _site/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
